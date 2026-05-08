@@ -1,2 +1,1 @@
-# sukh-ai-wellness-platform
-AI Wellness Knowledge Platform (RAG + MCP + Local-first)
+# SUKH AI Wellness Platform — v3 Refactor
